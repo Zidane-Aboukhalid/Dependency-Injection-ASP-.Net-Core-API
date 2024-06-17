@@ -1,0 +1,32 @@
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\bin\Debug\net6.0\appsettings.Development.json
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\bin\Debug\net6.0\appsettings.json
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\bin\Debug\net6.0\Exemple_Dependency Injection.exe
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\bin\Debug\net6.0\Exemple_Dependency Injection.deps.json
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\bin\Debug\net6.0\Exemple_Dependency Injection.runtimeconfig.json
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\bin\Debug\net6.0\Exemple_Dependency Injection.dll
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\bin\Debug\net6.0\Exemple_Dependency Injection.pdb
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\obj\Debug\net6.0\Exemple_Dependency Injection.csproj.AssemblyReference.cache
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\obj\Debug\net6.0\Exemple_Dependency Injection.GeneratedMSBuildEditorConfig.editorconfig
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\obj\Debug\net6.0\Exemple_Dependency Injection.AssemblyInfoInputs.cache
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\obj\Debug\net6.0\Exemple_Dependency Injection.AssemblyInfo.cs
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\obj\Debug\net6.0\Exemple_Dependency Injection.csproj.CoreCompileInputs.cache
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\obj\Debug\net6.0\Exemple_Dependency Injection.MvcApplicationPartsAssemblyInfo.cs
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\obj\Debug\net6.0\Exemple_Dependency Injection.MvcApplicationPartsAssemblyInfo.cache
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\obj\Debug\net6.0\staticwebassets\msbuild.Exemple_Dependency Injection.Microsoft.AspNetCore.StaticWebAssets.props
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\obj\Debug\net6.0\staticwebassets\msbuild.build.Exemple_Dependency Injection.props
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Exemple_Dependency Injection.props
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Exemple_Dependency Injection.props
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\obj\Debug\net6.0\staticwebassets.pack.json
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\obj\Debug\net6.0\staticwebassets.build.json
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\obj\Debug\net6.0\staticwebassets.development.json
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\obj\Debug\net6.0\scopedcss\bundle\Exemple_Dependency Injection.styles.css
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\obj\Debug\net6.0\Exemple_Dependency Injection.csproj.CopyComplete
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\obj\Debug\net6.0\Exemple_Dependency Injection.dll
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\obj\Debug\net6.0\refint\Exemple_Dependency Injection.dll
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\obj\Debug\net6.0\Exemple_Dependency Injection.pdb
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\obj\Debug\net6.0\Exemple_Dependency Injection.genruntimeconfig.cache
+D:\test api\Exemple_Dependency_Injection\Exemple_Dependency Injection\obj\Debug\net6.0\ref\Exemple_Dependency Injection.dll
